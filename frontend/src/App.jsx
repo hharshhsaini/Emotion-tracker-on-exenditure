@@ -51,7 +51,7 @@ function App() {
 
       {/* Footer */}
       <footer className="text-center py-6 text-gray-500 text-sm">
-        Built for Microsoft Imagine Cup 2024
+        Made by Harsh Saini 2026
       </footer>
     </div>
   );
